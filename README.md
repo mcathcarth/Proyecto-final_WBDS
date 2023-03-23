@@ -24,5 +24,14 @@ matplotlib.pyplot: Este paquete proporciona una manera fácil de crear distintos
 
 Los paquetes "os", "math" y "shutil" son módulos integrados de Python y no requieren instalación adicional.
 
+## 2. Corrida:
 
+Descargar y descomprimir *compare.zip*
 
+* Opción 1: modificar la linea 18 del script *regression_metrics.py* con la dirección al directorio “*compare*”
+
+* Opción 2: ejecutar el script e ingresar por terminal la dirección al directorio “*compare*”
+
+Seguir las indicaciones que se imprimen en pantalla
+
+Al final del análisis se crea un directorio “*analysis*” dentro del directorio “*compare*” donde se encuentran los archivos de salida.
