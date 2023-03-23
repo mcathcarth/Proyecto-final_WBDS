@@ -10,11 +10,12 @@ pandas: Este paquete proporciona estructuras de datos de alto rendimiento y herr
 
     pip install pandas
 
-sklearn.metrics: Este paquete es parte de scikit-learn y proporciona herramientas para el cálculo de diversas métricas, aquí hacemos uso del Error absoluto medio (MAE), del Error cuadratico medio (MSE) y del R-cuadrado (R2).
+sklearn.metrics: Este paquete es parte de scikit-learn y proporciona herramientas para el cálculo de diversas métricas, aquí hacemos uso del Error absoluto medio (MAE), del Error cuadrático medio (MSE) y del R-cuadrado (R2).
 
     pip install scikit-learn
 
-math: Este paquete proporciona funciones matemáticas comunes, lo utilizamos para calcular la raiz del Error cuadratico medio (RMSE)
+math: Este paquete proporciona funciones matemáticas comunes, lo utilizamos para calcular la raíz del Error cuadrático medio (RMSE)
+
 shutil: Este paquete proporciona una interfaz de alto nivel para la copia y eliminación de archivos y directorios, lo utilizamos para mover los archivos generados al directorio de análisis.
 
 matplotlib.pyplot: Este paquete proporciona una manera fácil de crear distintos tipos de gráficos.
